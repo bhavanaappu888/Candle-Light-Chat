@@ -1,6 +1,3 @@
 # Candle-Light-Chat
 
-#Site is Live at
-
-https://candle-light.netlify.app
-
+Check out the Pdf for the Info
